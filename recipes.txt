@@ -3,4 +3,7 @@ print("Creating my Repeces")
 print("My First Recipe : Kheer")
 print("My Second Recipe : Maggi")
 
+Beans
+Pizza
+
 Thank You
